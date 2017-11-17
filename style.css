@@ -81,3 +81,12 @@ margin bottom: 10px;
 div.questions p {margin-top: 30px;
 }
 
+div.questions a.btn{border-radius: 5px;
+color: #FFF;
+background-color: #007bff;
+border-color: #007bff;
+text-decoration: none;
+padding: 18px;
+font-size: 20px;
+}
+
